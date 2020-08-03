@@ -1,3 +1,6 @@
+# [MS Student x JAZUG] Static Web App ハンズオン&特別セッション
+[MS Student x JAZUG] Static Web App ハンズオン&特別セッションで作成したテスト用プロジェクト
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
